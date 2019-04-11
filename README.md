@@ -4,7 +4,7 @@
 	https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
 	https://askubuntu.com/questions/171694/how-do-i-keep-terminal-line-from-overwriting-itself
 	
-## organisation de ces fichiers :
+## organisation des fichiers :
 	https://superuser.com/questions/183870/difference-between-bashrc-and-bash-profile/183980#183980
 
 ## Comment créer des commandes avec variables sous linux
