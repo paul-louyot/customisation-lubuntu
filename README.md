@@ -1,8 +1,8 @@
-# customisation-lubuntu
+# Customisation de Lubuntu
 
 ## modifier le prompt dans le terminal
-	<https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/>
-	<https://askubuntu.com/questions/171694/how-do-i-keep-terminal-line-from-overwriting-itself>
+	[cyberciti.biz](https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/)
+	[askubuntu.com][https://askubuntu.com/questions/171694/how-do-i-keep-terminal-line-from-overwriting-itself)
 	
 ## organisation des fichiers :
 	<https://superuser.com/questions/183870/difference-between-bashrc-and-bash-profile/183980#183980>
